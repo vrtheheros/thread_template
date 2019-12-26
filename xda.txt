@@ -1,0 +1,117 @@
+[CENTER][IMG]"https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/header.png"[/IMG]
+
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/disclaimer.png[/IMG]
+
+[CODE]
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+ [/CODE]
+
+[SIZE="3"]"This is a user-friendly thread, all your suggestions are important to us and will be taken into consideration."[/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/about.png[/IMG]
+
+[SIZE="4"]TitaniumOS is a beautiful Android ROM which focuses on performance and stability with tons of awesome features. The main aim of this rom is to give user a better experience without compromising quality of Android experience so that no one struggles in any kind of difficulties while using their device.[/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/instructions.png[/IMG]
+
+[SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
+[SIZE="4"]Download the latest build and GApps
+Reboot to recovery 
+Make backup (Not Necessary)
+Wipe System, Data, Cache, Dalvik
+Flash the latest build and GApps
+Reboot[/SIZE]
+
+[SIZE="4"][B]DIRTY FLASH :[/B][/SIZE]
+[SIZE="4"]Download the latest build 
+Reboot to recovery
+Flash the latest build
+Wipe Cache
+Reboot[/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/downloads.png[/IMG]
+[INDENT][SIZE="3"][B][URL="https://download.droidontime.com/"]TitaniumOS Downloads[/URL][/B]
+
+[B][URL=""]SourceForge[/URL][/B]
+
+[B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
+
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/features.png[/IMG]
+[HIDE][CODE][LIST]
+[U][B]STATUSBAR:[/B][/U]
+[*]Battery Icon Style
+[*]Clock and Date
+[*]Statusbar icons
+[*]Brightness Control
+[*]Show 4G icon instead LTE 
+
+[U][B]LOCKSCREEN:[/B][/U]
+[*]
+
+[U][B]QUICK SETTINGS:[/B][/U]
+[*]
+
+[U][B]NAVIGATION BAR:[/B][/U]
+[*]
+
+[U][B]NOTIFICATIONS:[/B][/U]
+[*]
+
+[U][B]MISC:[/B][/U]
+[*]
+
+[U][B]ANIMATIONS:[/B][/U]
+[*]
+
+[U][B]BUTTONS:[/B][/U]
+[*]
+
+[/LIST][/CODE][/HIDE]
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/credits.png[/IMG]
+[SIZE="4"][INDENT][SIZE="4"][B]
+Our Team
+AOSP
+LineageOS
+AOSiP
+PixelExperience
+And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/team.png[/IMG][SIZE="4"]
+
+[B]Saikat[/B] - Founder/Lead Developer
+[B]Nikesh[/B] - Android/Core Developer
+[B]Abhiraj[/B]  - Moderator/Core Developer
+[B]Sonal[/B]  - Customize/Core Developer
+[B]Roger[/B]  - UI/UX Developer
+[B]Vivek[/B]  - UI/UX Developer [/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/source.png[/IMG]
+[SIZE="4"][URL="https://github.com/Titanium-OS"]
+[SIZE="5"][B]TitaniumOS Source[/URL][/B][/SIZE]
+[B][SIZE="3"][B][SIZE="4"][URL="https://github.com/Titanium-OS-Devices"]TitaniumOS-Device Sources[/URL][/SIZE][/B][/SIZE][/B]
+[B][URL="http://t.me/dotOS"]Telegram Group[/URL][/B]
+[B][URL=""]Telegram Channel[/URL][/B]
+[B][URL=""]Website[/URL][/B][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/bugs.png[/IMG]
+As soon as the problem occurs, take a logcat! 
+[URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL][/CENTER]
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE=3][B]TitaniumOS, ROM for *device* [/B][/SIZE]
+
+[B][U]Contributors:[/U][/B] * Maintainer name *
+[B]Source Code:[/B] [URL="https://github.com/Titanium-OS"]https://github.com/Titanium-OS[/URL]
+[B]Kernel Source:[/B]: * device kernel source link *
+
+[B]ROM OS Version:[/B] 10.x Ten
+[B]ROM Kernel:[/B] * device kernel version *
+[B]ROM Firmware Required:[/B] Must be On latest Firmware
+[B]Based On:[/B] AOSP
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] * current build status *
+[B]Current Stable Version:[/B] v1.0
+[B]Stable Release Date:[/B] 26-12-2019
