@@ -1,6 +1,6 @@
-[CENTER][IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/header.png[/IMG]
+[CENTER][IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/header.png?raw=true[/IMG]
 
-[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/disclaimer.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/disclaimer.png?raw=true[/IMG]
 
 [CODE]
  * Your warranty is now void.
@@ -10,11 +10,11 @@
 
 [SIZE="3"]"This is a user-friendly thread, all your suggestions are important to us and will be taken into consideration."[/SIZE]
 
-[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/about.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/about.png?raw=true[/IMG]
 
 [SIZE="4"]TitaniumOS is a beautiful Android ROM which focuses on performance and stability with tons of awesome features. The main aim of this rom is to give user a better experience without compromising quality of Android experience so that no one struggles in any kind of difficulties while using their device.[/SIZE]
 
-[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/instructions.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/instructions.png?raw=true[/IMG]
 
 [SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
 [SIZE="4"]Download the latest build and GApps
@@ -31,12 +31,12 @@ Flash the latest build
 Wipe Cache
 Reboot[/SIZE]
 
-[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/downloads.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/downloads.png?raw=true[/IMG]
 [INDENT][SIZE="3"][B][URL="https://sourceforge.net/projects/TitaniumOS/files/"]TitaniumOS Downloads[/URL][/B]
 
 [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
 
-[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/features.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/features.png?raw=true[/IMG]
 [HIDE][CODE][LIST]
 [U][B]STATUSBAR:[/B][/U]
 [*]Battery Icon Style
@@ -67,7 +67,7 @@ Reboot[/SIZE]
 [*]
 
 [/LIST][/CODE][/HIDE]
-[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/credits.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/credits.png?raw=true[/IMG]
 [SIZE="4"][INDENT][SIZE="4"][B]
 Our Team
 AOSP
@@ -76,7 +76,7 @@ AOSiP
 PixelExperience
 And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 
-[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/team.png[/IMG][SIZE="4"]
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/team.png?raw=true[/IMG][SIZE="4"]
 
 [B]Saikat[/B] - Founder/Lead Developer
 [B]Nikesh[/B] - Android/Core Developer
@@ -85,14 +85,14 @@ And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 [B]Roger[/B]  - UI/UX Developer
 [B]Vivek[/B]  - UI/UX Developer [/SIZE]
 
-[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/source.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/source.png?raw=true[/IMG]
 [SIZE="4"][URL="https://github.com/Titanium-OS"]
 [SIZE="5"][B]TitaniumOS Source[/URL][/B][/SIZE]
 [B][SIZE="3"][B][SIZE="4"][URL="https://github.com/Titanium-OS-Devices"]TitaniumOS-Device Sources[/URL][/SIZE][/B][/SIZE][/B]
 [B][URL="http://t.me/TitaniumOS_Chat"]Telegram Group[/URL][/B]
 [B][URL="http://t.me/TitaniumOS_Updates"]Telegram Channel[/URL][/B][/SIZE]
 
-[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/bugs.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Titanium-OS/thread_template/master/images/bugs.png?raw=true[/IMG]
 As soon as the problem occurs, take a logcat! 
 [URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL][/CENTER]
 
